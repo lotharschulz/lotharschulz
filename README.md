@@ -1,6 +1,5 @@
 #### Hi there 👋
 
-</p>&nbsp;</p>
 <p><img src="https://img.shields.io/badge/name-lotharschulz-brightgreen" />&nbsp;
   <a href="https://www.lotharschulz.info/"><img src="https://img.shields.io/badge/blog-lotharschulz.info-red" /></a>&nbsp;
   <a href="https://github.com/lotharschulz"><img src="https://img.shields.io/github/followers/lotharschulz?label=follow&style=social" /></a>&nbsp;
