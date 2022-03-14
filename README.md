@@ -1,5 +1,3 @@
-#### Hi there 👋
-
 <p><img src="https://img.shields.io/badge/name-lotharschulz-brightgreen" />&nbsp;
   <a href="https://www.lotharschulz.info/"><img src="https://img.shields.io/badge/blog-lotharschulz.info-red" /></a>&nbsp;
   <a href="https://github.com/lotharschulz"><img src="https://img.shields.io/github/followers/lotharschulz?label=follow&style=social" /></a>&nbsp;
@@ -11,3 +9,15 @@
   <a href="https://www.lotharschulz.info/talks/"><img src="https://img.shields.io/badge/lotharschulz-talks-informational" /></a>&nbsp;
   <a href="https://www.lotharschulz.info/talks/"><img src="https://img.shields.io/badge/speakerdeck-lotharschulz-0192b4" /></a>&nbsp;
   <a href="http://bit.ly/2zVLbWh"><img src="https://img.shields.io/badge/curl--L http://bit.ly/2zVLbWh-434343" /></a></p>
+  
+```kotlin
+data class Lotharschulz (
+    val passion: List<String> = listOf<String>("Technology", "Leadership"),
+    val naturalLanguages: List<String> = listOf<String>("de", "en"),
+    val programmingLanguages: List<String> = listOf<String>("Kotlin", "Python", "Typescript", "Java", "Golang"),
+){
+    fun sayHi() = println("Hey there, nice to meet you ;-)")
+}
+
+fun main() = println(Lotharschulz().sayHi())
+```
