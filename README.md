@@ -21,3 +21,9 @@ data class Lotharschulz (
 
 fun main() = println(Lotharschulz().sayHi())
 ```
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=lotharschulz&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=333333&icon_color=333333&text_color=000000&bg_color=F,FFFFFF,FFFFFF" alt="my Github Stats"/>
+
+<!--
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=lotharschulz&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ls" />
+-->
