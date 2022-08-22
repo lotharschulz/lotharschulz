@@ -1,6 +1,7 @@
 <p><img src="https://img.shields.io/badge/name-lotharschulz-brightgreen" />&nbsp;
   <a href="https://www.lotharschulz.info/"><img src="https://img.shields.io/badge/blog-lotharschulz.info-red" /></a>&nbsp;
-  <a href="https://github.com/lotharschulz"><img src="https://img.shields.io/github/followers/lotharschulz?label=follow&style=social" /></a>&nbsp;
+<!--  <a href="https://github.com/lotharschulz"><img src="https://img.shields.io/github/followers/lotharschulz?label=follow&style=social" /></a>&nbsp; -->
+  <img alt="GitHub" src="https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub+Followers&labelColor=282c34&color=181717&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Dlotharschulz&longCache=true"/>&nbsp;
   <a href="https://codeberg.org/lotharschulz"><img src="https://img.shields.io/badge/codeberg-lotharschulz-yellowgreen" /></a>&nbsp;
   <a href="http://de.linkedin.com/in/lotharschulz/"><img src="https://img.shields.io/badge/-lotharschulz-blue?logo=Linkedin&logoColor=white" /></a>&nbsp;
   <a href="https://twitter.com/lothar_schulz"><img src="https://img.shields.io/twitter/follow/lothar_schulz?style=social" /></a>&nbsp;</p>
@@ -56,3 +57,8 @@ fun main() = println(Lotharschulz().sayHi())
 <!--
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lotharschulz&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ls" />
 -->
+
+<!--
+<img src="https://github-profile-trophy.vercel.app/?username=lotharschulz&theme=juicyfresh&no-bg=true" />
+-->
+
