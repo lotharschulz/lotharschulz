@@ -15,7 +15,7 @@
 data class Lotharschulz (
     val passion: List<String> = listOf<String>("Technology", "Leadership"),
     val naturalLanguages: List<String> = listOf<String>("de", "en"),
-    val programmingLanguages: List<String> = listOf<String>("Kotlin", "Python", "Typescript", "Java", "Golang"),
+    val programmingLanguages: List<String> = listOf<String>("Kotlin", "Java", "Python", "Typescript", "Golang"),
 ){
     fun sayHi() = println("Hey there, nice to meet you ;-)")
 }
