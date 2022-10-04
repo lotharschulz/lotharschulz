@@ -8,7 +8,7 @@
   
 <p><a href="https://mastodon.technology/@lotharschulz"><img src="https://img.shields.io/badge/-lotharschulz-green?logo=Mastodon&logoColor=white" /></a>&nbsp;
   <a href="https://www.lotharschulz.info/talks/"><img src="https://img.shields.io/badge/lotharschulz-talks-informational" /></a>&nbsp;
-  <a href="https://www.lotharschulz.info/talks/"><img src="https://img.shields.io/badge/speakerdeck-lotharschulz-0192b4" /></a>&nbsp;
+  <a href="https://speakerdeck.com/lothar"><img src="https://img.shields.io/badge/speakerdeck-lotharschulz-0192b4" /></a>&nbsp;
   <a href="http://bit.ly/2zVLbWh"><img src="https://img.shields.io/badge/curl--L http://bit.ly/2zVLbWh-434343" /></a></p>
   
 ```kotlin
