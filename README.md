@@ -13,7 +13,7 @@
   
 ```kotlin
 data class Lotharschulz (
-    val passion: List<String> = listOf<String>("Technology", "Leadership"),
+    val passion: List<String> = listOf<String>("Leadership", "Software", "Engineering"),
     val naturalLanguages: List<String> = listOf<String>("de", "en"),
     val programmingLanguages: List<String> = listOf<String>("Kotlin", "Java", "Python", "Typescript", "Golang"),
 ){
