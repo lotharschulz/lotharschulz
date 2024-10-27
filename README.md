@@ -11,16 +11,14 @@
   <a href="https://speakerdeck.com/lothar"><img src="https://img.shields.io/badge/speakerdeck-lotharschulz-0192b4" /></a>&nbsp;
   <a href="http://bit.ly/2zVLbWh"><img src="https://img.shields.io/badge/curl--L http://bit.ly/2zVLbWh-434343" /></a></p>
   
-```kotlin
-data class Lotharschulz (
-    val passion: List<String> = listOf<String>("Leadership", "Software", "Engineering"),
-    val naturalLanguages: List<String> = listOf<String>("de", "en"),
-    val programmingLanguages: List<String> = listOf<String>("Kotlin", "Java", "Python", "Typescript", "Golang"),
-){
-    fun sayHi() = println("Hey there, nice to meet you ;-)")
-}
+```rust
+fn main() {
+    let passion = vec!["Leadership".to_string(), "Software".to_string(), "Engineering".to_string()];
+    let natural_languages = vec!["de".to_string(), "en".to_string()];
+    let programming_languages = vec!["Rust".to_string(), "Kotlin".to_string(), "Python".to_string(), "Typescript".to_string()];
 
-fun main() = println(Lotharschulz().sayHi())
+    println!("Hey there, nice to meet you ;-)");
+}
 ```
 <!--
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=lotharschulz&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=333333&icon_color=333333&text_color=000000&bg_color=F,FFFFFF,FFFFFF" alt="my Github Stats"/>
