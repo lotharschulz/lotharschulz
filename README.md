@@ -4,10 +4,10 @@
   <img alt="GitHub" src="https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub+Followers&labelColor=282c34&color=181717&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Dlotharschulz&longCache=true"/>&nbsp;
   <a href="https://codeberg.org/lotharschulz"><img src="https://img.shields.io/badge/codeberg-lotharschulz-yellowgreen" /></a>&nbsp;
   <a href="http://de.linkedin.com/in/lotharschulz/"><img src="https://img.shields.io/badge/-lotharschulz-blue?logo=Linkedin&logoColor=white" /></a>&nbsp;
-  <a href="https://bsky.app/profile/lschu.bsky.social"><img src="https://img.shields.io/badge/lotharschulz-blue%20sky-blue" /></a>&nbsp;</p>
+  <a href="https://hachyderm.io/@lotharschulz"><img src="https://img.shields.io/badge/-lotharschulz-green?logo=Mastodon&logoColor=white" />&nbsp;</p>
   
-<p><a href="https://hachyderm.io/@lotharschulz"><img src="https://img.shields.io/badge/-lotharschulz-green?logo=Mastodon&logoColor=white" /></a>&nbsp;
-  <a href="https://www.lotharschulz.info/talks/"><img src="https://img.shields.io/badge/lotharschulz-talks-informational" /></a>&nbsp;
+<p><a href="https://www.lotharschulz.info/talks/"><img src="https://img.shields.io/badge/lotharschulz-talks-informational" /></a>&nbsp;
+  <a href="https://bsky.app/profile/lschu.bsky.social"><img src="https://img.shields.io/badge/lotharschulz-blue%20sky-blue" /></a>&nbsp;
   <a href="https://speakerdeck.com/lothar"><img src="https://img.shields.io/badge/speakerdeck-lotharschulz-0192b4" /></a>&nbsp;
   <a href="http://bit.ly/2zVLbWh"><img src="https://img.shields.io/badge/curl--L http://bit.ly/2zVLbWh-434343" /></a></p>
   
